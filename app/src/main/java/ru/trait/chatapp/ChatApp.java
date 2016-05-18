@@ -16,7 +16,7 @@ public class ChatApp extends Application {
         Parse.initialize(new Parse.Configuration.Builder(this)
                 .applicationId("YOUR_APP_ID")
                 .server("http://YOUR_PARSE_SERVER:1337/parse")
-
+//asf
         .build()
         );
     }
